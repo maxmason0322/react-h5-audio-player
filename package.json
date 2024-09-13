@@ -1,5 +1,5 @@
 {
-  "name": "react-h5-audio-player",
+  "name": "@maxmason0322/react-h5-audio-player",
   "version": "3.9.3",
   "description": "A customizable React audio player. Written in TypeScript. Mobile compatible. Keyboard friendly",
   "main": "./lib/index.js",
